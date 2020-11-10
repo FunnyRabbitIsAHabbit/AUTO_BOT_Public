@@ -1,3 +1,12 @@
+"""
+DataBase connector
+
+Developers: Andrey Kozlovsky, Stanislav Ermokhin
+
+"mysql.connector" library - Copyright (c) 2012, 2020, Oracle and/or its affiliates.
+
+"""
+
 import mysql.connector
 import datetime
 from calculate import Future
