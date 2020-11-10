@@ -3,7 +3,7 @@ DataBase connector
 
 Developers: Andrey Kozlovsky, Stanislav Ermokhin
 
-"mysql.connector" library - Copyright (c) 2012, 2020, Oracle and/or its affiliates.
+License information for external libraries is provided in a separate text file.
 
 """
 
